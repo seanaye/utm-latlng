@@ -318,4 +318,4 @@ method.setEllipsoid = function (name)
       var factor = Math.pow(10, precision);
       return Math.round(number * factor) / factor;
   }
-  module.exports = UTMLatLng;
+  window.UTMLatLng = UTMLatLng;
