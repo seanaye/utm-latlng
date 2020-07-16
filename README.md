@@ -1,6 +1,6 @@
 # utm-latlng
 
-LatLng to UTM converter vice versa for Nodejs.
+fork of utm latlng for use in browser
 
 ## Installation
 
